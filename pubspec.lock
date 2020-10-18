@@ -67,13 +67,6 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-  highlighter_coachmark:
-    dependency: "direct main"
-    description:
-      name: highlighter_coachmark
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "0.0.3"
   matcher:
     dependency: transitive
     description:
@@ -142,6 +135,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.2.17"
+  tutorial_coach_mark:
+    dependency: "direct main"
+    description:
+      name: tutorial_coach_mark
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.5.1"
   typed_data:
     dependency: transitive
     description:
